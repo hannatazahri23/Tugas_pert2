@@ -5,4 +5,4 @@ sebagai salah satu syarat memenuhi tugas perkuliahan.
 ###Gambar gwehj
 ##Lakik :v
 gambar gwehj yg lalik banget `<p>` :v
-![img]Lakik.JPG
+![gwhej](Lakik.JPG)
